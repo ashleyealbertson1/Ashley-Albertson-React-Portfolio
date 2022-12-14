@@ -23,7 +23,7 @@ const Intro = () => {
 
                                                 <p className="name">Ashley Albertson</p>
                                                 <p className="profession">FULL STACK SOFTWARE ENGINEER</p>
-                                                {/* <p className = "seeking">Seeking Junior / Entry-Level Role</p> */}
+                                                
 
                                             </div>
 
@@ -68,7 +68,7 @@ const Intro = () => {
                             <div className="intro-right-wrapper">
                                 <div className="bg-2"></div>
                                 <div className="my-pic-bg"></div>
-                                <img src={myPic} alt="Ashley Albertson Full Stack Developer" className="my-pic" />
+//                                 <img src={} alt="Ashley Albertson Full Stack Developer" className="my-pic" />
 
                             </div>
 
